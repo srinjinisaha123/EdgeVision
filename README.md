@@ -20,3 +20,10 @@ This system is built on a custom multithreaded Python engine to ensure zero fram
 *   **Computer Vision:** OpenCV, MediaPipe, YOLOv11
 *   **Data & UI:** SQLite, Streamlit, Pandas
 *   **System:** `threading`, `pyttsx3`
+
+## Future Enhancements
+* Integration of live video feed rendering directly into the Streamlit UI.
+
+* Lane Departure Warning (LDW) implementation using OpenCV edge detection.
+
+* Exporting telematics data to CSV for long-term fleet management analytics.
