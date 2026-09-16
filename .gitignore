@@ -1,0 +1,12 @@
+# Virtual Environments
+stable_env/
+edge_env/
+
+# Database Files
+*.db
+
+# AI Model Weights
+*.pt
+
+# Video Files
+*.mp4
